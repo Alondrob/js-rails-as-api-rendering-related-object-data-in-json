@@ -1,0 +1,2 @@
+class SightningController < ApplicationController
+end
